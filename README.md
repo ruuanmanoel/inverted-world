@@ -3,105 +3,95 @@
 </p>
 
 -------
-Uma jornada para quem não tem medo do desconhecido. O caminho para o Mundo Invertido é incerto, repleto de obstáculos e perigos. Porém, a recompensa é grande: salvar Hawkings e o mundo todo das garras de Vecna. Você está preparado(a)? 
+# Mundo Invertido | Semana Front-end
 
-## ▶️ Semana Front-end
-- [Live Dia 01](https://www.youtube.com/watch?v=FZgIQUDn8zo)
-- [Live Dia 02](https://www.youtube.com/watch?v=WHbhgxJLbN4)
-## 💻 Tecnologias
-- HTML
-- CSS
-- JavaScript
+Bem-vindo ao "Mundo Invertido", um projeto de front-end desenvolvido como parte da **Semana Front-end** da [DIO](https://web.digitalinnovation.one/). Este projeto simula a navegação por um mundo inspirado em **Stranger Things**, combinando design dinâmico com interações baseadas em JavaScript.
 
-## 💬 Assuntos abordados
-- HTML
-    - Estruturação da página 
-    - Semântica
-    - Acessibilidade
-    - Web Scraping
-    - SEO
-- CSS
-    - Posicionamentos
-    - Pseudo-elementos
-    - Pseudo-classes
-    - Flexbox
-    - Animações 
-- JavaScript
-    - Introdução ao JavaScript
-    - Manipulação do DOM
-    - Introdução ao Firebase
-    - Integração com o Firebase
+## 📖 Sobre o Projeto
 
-## 🎨 Variáveis do Tema CSS
-```css
-/*** VARIABLES & THEMES ***/
+Este projeto foi desenvolvido para colocar em prática os conhecimentos adquiridos sobre **HTML**, **CSS** e **JavaScript**. Ele traz uma experiência de navegação em que os usuários podem explorar o mundo de "Stranger Things" e seus elementos, além de interagir com a interface ao alternar entre os temas **Claro** e **Escuro**.
 
-:root {
-  --primary-color: #cf0f0f;
-  --primary-color-contrast: #ffffff;
-  --field-background-color: #000;
-}
+- **Tema Claro**: Simula o mundo normal.
+- **Tema Escuro**: Simula o "Mundo Invertido", com imagens e cores alteradas para representar o universo sombrio de Stranger Things.
 
-.light-theme {
-  --page-background: linear-gradient(
-    180deg,
-    #ffffff 0%,
-    #ffffff 65%,
-    rgba(255, 255, 255, 0.75) 100%
-  );
-  --header-background-color: #e3e3e3;
-  --highlight-color: #000000;
-  --featured-font-family: "Archivo", sans-serif;
-  --character-top-image-src: url("../images/characters/kids-on-the-bike.svg");
-  --character-top-image-color: #ffffff;
-  --character-bottom-image-src: url("../images/characters/inverted-world-monster.svg");
-  --character-bottom-image-color: #e5e5e5;
-  --background-lamp-image: url("../images/backgrounds/lamps.png");
-  --footer-background-color: #b5bbbf;
-}
+## 🚀 Funcionalidades
 
-.dark-theme {
-  --page-background: linear-gradient(
-    180deg,
-    #050000 0%,
-    #130404 65%,
-    rgba(19, 1, 1, 0.75) 100%
-  );
-  --header-background-color: #220f0f;
-  --highlight-color: #ffffff;
-  --featured-font-family: "Rubik Glitch", sans-serif;
-  --character-bottom-image-src: url("../images/characters/kids-on-the-bike.svg");
-  --character-bottom-image-color: rgba(255, 255, 255, 0.1);
-  --character-top-image-src: url("../images/characters/inverted-world-monster.svg");
-  --character-top-image-color: #000;
-  --background-lamp-image: url("../images/backgrounds/lamps-inverted.png");
-  --footer-background-color: #000;
-}
-```
-## 🔗 Links auxiliares
+- **Alternância de Tema**: O usuário pode alternar entre o tema Claro e Escuro.
+- **Música de Fundo**: Uma música ambiente que é reproduzida automaticamente ao acessar a página.
+- **Galeria de Imagens**: Imagens relacionadas ao Mundo Invertido e Stranger Things.
+- **Vídeo Integrado**: Um trailer de Stranger Things Vol. 4.
+- **Formulário de Inscrição**: Os visitantes podem se inscrever para "entrar no Clube Dungeons & Dragons" de Hawkins.
+- **Elementos Invertidos**: Vários elementos visuais são invertidos dependendo do tema, oferecendo uma imersão no conteúdo.
 
-- [W3C - World Wide Web Consortium](http://w3c.org)
-- [WAI - Web Acessibility Initiative](https://www.w3.org/WAI/)
-- [WCAG 2](https://www.w3.org/WAI/WCAG21/quickref/) 
-- [Figma](https://www.figma.com/file/I3Q42CcVUziRN3iMfTrbfb/Stranger-Things?node-id=0%3A1) 
-- [Demo](https://micheleambrosio.github.io/semana-frontend-mundo-invertido/) 
-## 🌎 Nossas redes sociais
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/16018277?v=4"/>
-    <p>&nbsp&nbsp&nbspDiogo Medeiros Mainardes<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/diogomainardes.dev">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/diogomainardes">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/diogomainardes/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/dimmbr">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/55519539?v=4"/>
-    <p>&nbsp&nbsp&nbspMichele Queiroz Ambrosio<br>
-    &nbsp&nbsp&nbsp<a href="http://instagram.com/programi_">Instagram</a>&nbsp;|&nbsp;<a href="https://github.com/micheleambrosio">GitHub</a>&nbsp;|&nbsp;<a href="https://www.linkedin.com/in/michele-ambrosio-a4899661/">LinkedIn</a>&nbsp;|&nbsp;<a href="https://www.twitch.tv/michele_ambrosio">Twitch</a></p>
-</p>
-<br/><br/>
-<p>
-    <img align=left margin=10 width=80 src="https://avatars.githubusercontent.com/u/3266640?v=4"/>
-    <p>&nbsp&nbsp&nbspRenan Johannsen de Paula <br>
-    &nbsp&nbsp&nbsp<a href="https://github.com/RenanJPaula">GitHub</a>&nbsp;|&nbsp;
-    <a href="https://www.linkedin.com/in/renanjpaula/">LinkedIn</a>
-    </p>
-</p>
+## 🖥️ Tecnologias Usadas
+
+- **HTML5**
+- **CSS3** (com variáveis, transições e manipulação de temas)
+- **JavaScript** (para alternância de temas e manipulação de elementos dinâmicos)
+- **Google Fonts** (tipografia)
+
+## 🔧 Como Rodar o Projeto
+
+### Requisitos
+- Navegador moderno com suporte a JavaScript e CSS.
+
+### Passos para execução
+
+1. Clone o repositório para o seu computador:
+    ```bash
+    git clone https://github.com/seu-usuario/mundo-invertido.git
+    ```
+
+2. Navegue até o diretório do projeto:
+    ```bash
+    cd mundo-invertido
+    ```
+
+3. Abra o arquivo `index.html` no seu navegador de preferência para visualizar o projeto.
+
+4. Para editar e desenvolver o projeto, basta abrir os arquivos HTML, CSS e JavaScript em um editor de texto de sua escolha, como [VS Code](https://code.visualstudio.com/).
+
+## 🖼️ Capturas de Tela
+
+![Mundo Invertido - Página Inicial](assets/design/dark-theme.png)
+![Mundo Invertido - Página Inicial](assets/design/light-theme.png)
+
+*Imagem do Mundo Invertido e Tema Claro*
+
+## 🔄 Como Funciona a Alternância de Temas
+
+Ao clicar no botão **Inverter Mundos**, o tema da página será alterado entre o **Claro** e o **Escuro**:
+
+- O tema **Claro** apresenta o layout padrão e elementos coloridos.
+- O tema **Escuro** simula o Mundo Invertido, mudando o fundo, as imagens e até mesmo a tipografia.
+
+## 🧑‍🤝‍🧑 Contribuindo
+
+Se você quiser contribuir com este projeto, fique à vontade para fazer um **fork** e submeter **pull requests**. 
+
+1. Faça o **fork** do repositório
+2. Crie uma nova branch:
+    ```bash
+    git checkout -b minha-contribuicao
+    ```
+3. Faça as alterações necessárias e **commit** as mudanças:
+    ```bash
+    git commit -am 'Adicionando nova funcionalidade'
+    ```
+4. **Push** para a sua branch:
+    ```bash
+    git push origin minha-contribuicao
+    ```
+5. Abra um **pull request** no GitHub para revisar suas alterações.
+
+## 📚 Licença
+
+Este projeto está licenciado sob a licença **MIT**. Veja o arquivo [LICENSE](LICENSE) para mais detalhes.
+
+## 👨‍💻 Autor
+
+Este projeto foi criado por [Seu Nome](https://github.com/ruuanmanoel) como parte do aprendizado na Digital Innovation One.
+
+---
+
+Sinta-se à vontade para ajustar o projeto conforme necessário e explorar novas funcionalidades! Boa sorte, e que o Mundo Invertido não te devore! 😱
